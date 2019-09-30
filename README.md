@@ -7,7 +7,7 @@
 * Mostrar capturas de pantalla de su servidor y el resultado de su API
 
 ---
-#Capturas
+# Capturas
 
 ## Reporte Servidor
 ![Servidor](https://github.com/FrankHackerman/Practica01ADB/blob/master/servidor.png)
